@@ -1,1 +1,1 @@
-# computer-techologies
+# Landing page на Bootstrap
